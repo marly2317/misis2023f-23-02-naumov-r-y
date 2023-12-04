@@ -30,4 +30,8 @@
 *.exe
 *.out
 *.app
-marly_cmake
+
+# MS Visual Studio Folders
+.vs
+out
+build
