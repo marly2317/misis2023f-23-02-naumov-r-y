@@ -1,7 +1,6 @@
-CHECK: 20231215-204207
-ERROR: file codeforces.id is absent
-OK: folder prj.codeforces structure is correct
-ERROR: CMake generator failed
+CHECK: 20231217-153512
 ERROR: lab complex - test build failed
+ERROR: lab complex_io - test build failed
 ERROR: lab rational - test build failed
+ERROR: lab rational_io - test build failed
 ERROR: lab dynarr - test build failed
